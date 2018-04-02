@@ -1,3 +1,6 @@
 halo !
 
 other line
+
+Push changes
+git push <REMOTENAME> <BRANCH>
